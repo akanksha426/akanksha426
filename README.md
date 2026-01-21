@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Akanksha Mishra  
 
-<!--
-**akanksha426/akanksha426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (IT) Student  
+💻 Aspiring Software Engineer  
+🌱 Currently learning MERN Stack & DSA  
+🚀 Interested in Web Development & Problem Solving  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Languages: Java, JavaScript  
+- Frontend: HTML, CSS, React  
+- Backend: Node.js, Express  
+- Database: MongoDB, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: <https://www.linkedin.com/in/akanksha-mishra-a5420425a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>
+- Email: <am3592336@gmail.com>
+
